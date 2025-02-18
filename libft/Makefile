@@ -14,7 +14,7 @@ SOURCES = ft_bzero.c \
 
 OBJ = $(SOURCES:.c=.o)
 
-ALL: $(NAME)
+all: $(NAME)
 
 $(NAME): $(OBJ)
 	ar rcs $(NAME) $(OBJ)

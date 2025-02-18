@@ -6,15 +6,15 @@
 /*   By: rguerrer <rguerrer@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/12/02 11:10:32 by rguerrer          #+#    #+#             */
-/*   Updated: 2024/02/05 15:52:23 by rguerrer         ###   ########.fr       */
+/*   Updated: 2025/02/18 14:16:12 by rguerrer         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef SO_LONG_H
 # define SO_LONG_H
 
-# include "../libft/libft.h"
-# include "../MLX42/include/MLX42/MLX42.h"
+# include "libft/libft.h"
+# include "MLX42/MLX42.h"
 # include <fcntl.h>
 # include <stdlib.h>
 # include <unistd.h>
